@@ -26,7 +26,7 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs
 
 Confirm branch switching before deployment `feat/netlify`, then configure the environment variables.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yzh990918/chatgpt-demo-netlify#OPENAI_API_KEY=&HTTPS_PROXY=&OPENAI_API_BASE_URL=&HEAD_SCRIPTS=&SECRET_KEY=&branch=feat/netlify)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yzh990918/chatgpt-demo-netlify#OPENAI_API_KEY=&HTTPS_PROXY=&OPENAI_API_BASE_URL=&HEAD_SCRIPTS=&SECRET_KEY=)
 
 ## Creative Forked Versions
 
